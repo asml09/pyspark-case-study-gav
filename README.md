@@ -43,6 +43,19 @@ Now: In the cleaning process we kept the 214 900 row but reduce the columns to 4
 |user_time_zone| string| Time zone of user|
 |hashtags| string| Hashtages used in tweet|
 
+## Country
+|Country|Ingagement|
+|-------|-----------|
+|GG|16|
+|GB|20747|
+|DE|4510|
+|ES|1923|
+|FR|179951|
+|CH|2983|
+|BE|3519|
+|JE|41|
+|LU|971|
+
 ## Hashtags
 
 Hashtags show topics being discussed within the tweets. Below is a wordcloud of the most popular hashtags.
