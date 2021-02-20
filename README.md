@@ -58,4 +58,12 @@ Mentions show specific users being referenced within the tweets. Below we can se
 
 # Users 
 
-What attributes do famou
+What attributes do those who have the most followers on Twitter have? 
+The following to follower ratio of the 10 most followed people on twitter
+![](img/top.png)
+
+The following to follower ratio of an average person
+![](img/average.png)
+
+What are the top 5 locations that tweets are sent from?
+![](img/locations.png)
