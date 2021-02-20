@@ -3,7 +3,7 @@ A case study on the French Presidential Election in 2017, using tweeter data.
 
 ## Data
 Orgin: The original data contains follow roughly 1220 columns with over  214 900 rows.  
-Now: In the cleaning process we kept the 214 900 row but reduce the columns to 44.
+Now: In the cleaning process we kept the 214 900 row but reduce the columns to 42.
 
 ### Data Dictionary
 |Column Name |Data Type|Info |
@@ -26,7 +26,6 @@ Now: In the cleaning process we kept the 214 900 row but reduce the columns to 4
 |text| string| Tweet|
 |timestamp_ms| string| Time of tweet|  
 |quoted_status_id| string| Quote id|
-|m_id| string| Master ID for all records |
 |user_created_at| string| User profile created time|
 |user_description| string| Use about me section|
 |user_favourites_count| string| Number of tweet user favor|
@@ -42,20 +41,21 @@ Now: In the cleaning process we kept the 214 900 row but reduce the columns to 4
 |user_screen_name| string| User displayed name|
 |user_statuses_count| string| Number of time user change their status|
 |user_time_zone| string| Time zone of user|
-|m_id| string| | Master ID for all records |
 |hashtags| string| Hashtages used in tweet|
 
 ## Hashtags
 
 Hashtags show topics being discussed within the tweets. Below is a wordcloud of the most popular hashtags.
 
-![](images/hashtags.png)
+![](img/hashtags.png)
 
 ## Mentions
 
 Mentions show specific users being referenced within the tweets. Below we can see the most popular users mentioned. 
 
-![](images/mentions.png)
+![](img/mentions.png)
 
 
-|
+# Users 
+
+What attributes do famou
